@@ -1,2 +1,2 @@
 console.log("Hello world");
-console.log("Coding Gurus! " + "Time for fun.");
+console.log("Coding with ElvisMugisha! " + "Time for fun.");
